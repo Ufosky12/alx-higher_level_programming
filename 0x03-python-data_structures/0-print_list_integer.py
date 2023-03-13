@@ -1,0 +1,3 @@
+st_integer(my_list=[]):
+        for item in my_list:
+                    print("{:d}".format(item))
